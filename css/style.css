@@ -101,6 +101,11 @@
 .text-directorio{
 	font-size: 12px;
 }
+.text-directorio-dos{
+	font-size: 12px;
+	font-weight: 500;
+	padding-bottom: 10px;
+}
 
 .table-fixed thead {
 
@@ -200,4 +205,20 @@ td{
 		margin-top:40px;
 	}
 
+
+}
+
+@media (max-width: 601px) {
+	.intro{
+	width: 350px;
+}
+}
+
+@media (max-width: 350px) {
+	.intro{
+	width: 270px;
+	}
+	.intro-heading{
+		font-size: 22px !important;
+	}
 }
