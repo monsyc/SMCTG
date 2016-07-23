@@ -24,10 +24,22 @@
 	background-color: rgba(0,0,0,.3);
 }
 
+.button-top{
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+	width: 220px !important;
+	padding-top: 15px;
+	margin-top: 20px;
+	color: white;
+    background-color:transparent;
+    border-color: white;
+}
+
 /*INFO*/
 
 #info {
-    background-color: #F2F2F2;
+    background-color: white;
 }
 
 .info-text{
@@ -54,6 +66,10 @@
 }
 
 /*ENLACES*/
+
+#enlaces{
+	background-color: #F2F2F2;
+}
 
 .enlaces-images-one{
 	width: 275px;
