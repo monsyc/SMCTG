@@ -258,11 +258,23 @@ header .intro-text .intro-heading {
   line-height: 20px;
   margin-bottom: 5px;
 }
-header .intro-text .intro-heading-two {
+
+header .intro-text .intro-heading-one {
+  text-align: center;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 15px;
+  font-size: 22px;
+  line-height: 20px;
+  margin-bottom: 5px;
+}
+
+header .intro-text .intro-heading-two {
+  text-align: center;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
   line-height: 20px;
   margin-bottom: 5px;
 }
@@ -287,9 +299,10 @@ header .intro-text .intro-heading-two {
   }
   header .intro-text .intro-heading-two {
     text-transform: uppercase;
+    text-align: center;
     font-weight: 500;
-    font-size: 29.3px;
-    line-height: 28px;
+    font-size: 16px;
+    line-height: 20px;
 
   }
 }
