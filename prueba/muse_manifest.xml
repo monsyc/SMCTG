@@ -1,0 +1,30 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426628876353">
+  <folder name="css">
+    <file name="site_global.css" crc="324503600"/>
+    <file name="index.css" crc="3759656920" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3777594392" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="17485671" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="3768192129" ref="phone>index"/>
+    <file name="ban_es.jpg" crc="116942021" ref="phone>index:index"/>
+    <file name="logo2.png" crc="51027135" ref="phone>index:index"/>
+    <file name="ban_en.jpg" crc="385463888" ref="phone>index:index"/>
+    <file name="ban_ch.jpg" crc="495674734" ref="phone>index:index"/>
+    <file name="simbolo.png" crc="372266848" ref="phone>index:index"/>
+    <file name="iconpint2.png" crc="289993804" ref="phone>index:index"/>
+    <file name="iconpint1.png" crc="41478775" ref="phone>index:index"/>
+    <file name="fondo.jpg" crc="436864611" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="225515753" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="441770972" mt="1426628866185" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4289392746" mt="1426619841530" redirect="true"/>
+</manifest>

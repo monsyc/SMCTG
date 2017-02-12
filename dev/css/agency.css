@@ -240,8 +240,8 @@ header {
   color: white;
 }
 header .intro-text {
-  padding-top: 100px;
-  padding-bottom: 50px;
+  padding-top: 150px;
+  padding-bottom: 100px;
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -265,7 +265,7 @@ header .intro-text .intro-heading-one {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 22px;
-  line-height: 20px;
+  line-height: 22px;
   margin-bottom: 5px;
 }
 
@@ -293,8 +293,9 @@ header .intro-text .intro-heading-two {
   header .intro-text .intro-heading {
     text-transform: uppercase;
     font-weight: 500;
-    font-size: 55px;
+    font-size: 30px;
     line-height: 50px;
+    text-align: center;
  
   }
   header .intro-text .intro-heading-two {

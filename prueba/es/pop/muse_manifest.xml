@@ -1,0 +1,160 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426804224782">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_a-p_g_-maestra.css" crc="3815086177" ref="lowes:2008:ambiance:2012:index:inovatile:2010:joyou:2011:sanitarios-lamosa:sanitario"/>
+    <file name="lowes.css" crc="468623094" ref="lowes"/>
+    <file name="iefonts_lowes.css" crc="119503373" ref="lowes"/>
+    <file name="2008.css" crc="397336014" ref="2008"/>
+    <file name="ambiance.css" crc="4024489149" ref="ambiance"/>
+    <file name="iefonts_ambiance.css" crc="3811062706" ref="ambiance"/>
+    <file name="2012.css" crc="397336014" ref="2012"/>
+    <file name="index.css" crc="3856700221" ref="index"/>
+    <file name="iefonts_index.css" crc="4220706119" ref="index"/>
+    <file name="inovatile.css" crc="309979092" ref="inovatile"/>
+    <file name="iefonts_inovatile.css" crc="350562433" ref="inovatile"/>
+    <file name="2010.css" crc="397336014" ref="2010"/>
+    <file name="joyou.css" crc="4017364234" ref="joyou"/>
+    <file name="iefonts_joyou.css" crc="318231691" ref="joyou"/>
+    <file name="2011.css" crc="397336014" ref="2011"/>
+    <file name="sanitarios-lamosa.css" crc="212025247" ref="sanitarios-lamosa"/>
+    <file name="iefonts_sanitarios-lamosa.css" crc="4196374765" ref="sanitarios-lamosa"/>
+    <file name="sanitario.css" crc="4038157384" ref="sanitario"/>
+    <file name="iefonts_sanitario.css" crc="4054515639" ref="sanitario"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="phone>index:phone>2012:phone>sanitario:phone>joyou:phone>2011:phone>lowes:phone>2010:phone>inovatile:phone>ambiance:phone>2008:phone>sanitarios-lamosa:index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="museutils.js" crc="3777594392" ref="phone>index:phone>2012:phone>sanitario:phone>joyou:phone>2011:phone>lowes:phone>2010:phone>inovatile:phone>ambiance:phone>2008:phone>sanitarios-lamosa:index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="phone>index:phone>2012:phone>sanitario:phone>joyou:phone>2011:phone>lowes:phone>2010:phone>inovatile:phone>ambiance:phone>2008:phone>sanitarios-lamosa:index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="pie.js" crc="3827607177" ref="phone>sanitario:phone>joyou:phone>lowes:phone>inovatile:phone>ambiance:phone>sanitarios-lamosa:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="webpro.js" crc="474087315" ref="phone>sanitario:phone>joyou:phone>lowes:phone>inovatile:phone>ambiance:phone>sanitarios-lamosa:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="phone>sanitario:phone>joyou:phone>lowes:phone>inovatile:phone>ambiance:phone>sanitarios-lamosa:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="phone>sanitario:phone>joyou:phone>lowes:phone>inovatile:phone>ambiance:phone>sanitarios-lamosa:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="touchswipe.js" crc="100683906" ref="phone>sanitario:phone>joyou:phone>lowes:phone>inovatile:phone>ambiance:phone>sanitarios-lamosa:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="museredirect.js" crc="17485671" ref="index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+  </folder>
+  <folder name="images">
+    <file name="a-pág.-maestra-copy-favicon.ico" crc="3768192129" ref="phone>index"/>
+    <file name="iconpint1.png" crc="41478775" ref="phone>index:phone>2012:phone>sanitario:phone>joyou:phone>2011:phone>lowes:phone>2010:phone>inovatile:phone>ambiance:phone>2008:phone>sanitarios-lamosa:index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="iconpint2.png" crc="289993804" ref="phone>index:phone>2012:phone>sanitario:phone>joyou:phone>2011:phone>lowes:phone>2010:phone>inovatile:phone>ambiance:phone>2008:phone>sanitarios-lamosa:index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="iconmenu.png" crc="3829124021" ref="phone>index:phone>2012:phone>sanitario:phone>joyou:phone>2011:phone>lowes:phone>2010:phone>inovatile:phone>ambiance:phone>2008:phone>sanitarios-lamosa"/>
+    <file name="logo1.jpg" crc="454478868" ref="phone>index:phone>2012:phone>sanitario:phone>joyou:phone>2011:phone>lowes:phone>2010:phone>inovatile:phone>ambiance:phone>2008:phone>sanitarios-lamosa:index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="a-pág.-maestra-favicon.ico" crc="3768192129" ref="phone>2012"/>
+    <file name="butonback.png" crc="454559680" ref="phone>2012:phone>sanitario:phone>joyou:phone>2011:phone>lowes:phone>2010:phone>inovatile:phone>ambiance:phone>2008:phone>sanitarios-lamosa:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="001.jpg" crc="3876610122" ref="phone>sanitario:sanitario"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>sanitario:phone>joyou:phone>lowes:phone>inovatile:phone>ambiance:phone>sanitarios-lamosa:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="002.jpg" crc="4171652168" ref="phone>sanitario:sanitario"/>
+    <file name="003.jpg" crc="4144469244" ref="phone>sanitario:sanitario"/>
+    <file name="004.jpg" crc="87384831" ref="phone>sanitario:sanitario"/>
+    <file name="005.jpg" crc="3977273425" ref="phone>sanitario:sanitario"/>
+    <file name="006.jpg" crc="138413396" ref="phone>sanitario:sanitario"/>
+    <file name="001-crop-u1724.jpg" crc="465657497" ref="phone>sanitario"/>
+    <file name="002-crop-u1732.jpg" crc="327448102" ref="phone>sanitario"/>
+    <file name="003-crop-u1730.jpg" crc="4142278687" ref="phone>sanitario"/>
+    <file name="004-crop-u1726.jpg" crc="315161797" ref="phone>sanitario"/>
+    <file name="005-crop-u1734.jpg" crc="378862622" ref="phone>sanitario"/>
+    <file name="006-crop-u1728.jpg" crc="3761259278" ref="phone>sanitario"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>sanitario:phone>joyou:phone>lowes:phone>inovatile:phone>ambiance:phone>sanitarios-lamosa:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="0012.jpg" crc="457201042" ref="phone>joyou:joyou"/>
+    <file name="0022.jpg" crc="4145320915" ref="phone>joyou:joyou"/>
+    <file name="0032.jpg" crc="3989259951" ref="phone>joyou:joyou"/>
+    <file name="001-crop-u1673.jpg" crc="516409565" ref="phone>joyou"/>
+    <file name="002-crop-u1675.jpg" crc="4106975218" ref="phone>joyou"/>
+    <file name="003-crop-u1677.jpg" crc="4228268353" ref="phone>joyou"/>
+    <file name="0013.jpg" crc="513557012" ref="phone>lowes:lowes"/>
+    <file name="0023.jpg" crc="3765143987" ref="phone>lowes:lowes"/>
+    <file name="0033.jpg" crc="499803608" ref="phone>lowes:lowes"/>
+    <file name="0042.jpg" crc="4167468361" ref="phone>lowes:lowes"/>
+    <file name="001-crop-u1781.jpg" crc="3807108562" ref="phone>lowes"/>
+    <file name="002-crop-u1779.jpg" crc="4294209987" ref="phone>lowes"/>
+    <file name="003-crop-u1785.jpg" crc="4157308676" ref="phone>lowes"/>
+    <file name="004-crop-u1783.jpg" crc="323826036" ref="phone>lowes"/>
+    <file name="0014.jpg" crc="3936826303" ref="phone>inovatile:inovatile"/>
+    <file name="0024.jpg" crc="367416902" ref="phone>inovatile:inovatile"/>
+    <file name="0034.jpg" crc="297080061" ref="phone>inovatile:inovatile"/>
+    <file name="0043.jpg" crc="143731250" ref="phone>inovatile:inovatile"/>
+    <file name="0052.jpg" crc="4183570866" ref="phone>inovatile:inovatile"/>
+    <file name="001-crop-u1824.jpg" crc="3882433162" ref="phone>inovatile"/>
+    <file name="002-crop-u1818.jpg" crc="514428127" ref="phone>inovatile"/>
+    <file name="003-crop-u1820.jpg" crc="138330287" ref="phone>inovatile"/>
+    <file name="004-crop-u1826.jpg" crc="3821580172" ref="phone>inovatile"/>
+    <file name="005-crop-u1822.jpg" crc="3949405438" ref="phone>inovatile"/>
+    <file name="0015.jpg" crc="4194929321" ref="phone>ambiance:ambiance"/>
+    <file name="0025.jpg" crc="257177155" ref="phone>ambiance:ambiance"/>
+    <file name="0035.jpg" crc="352674011" ref="phone>ambiance:ambiance"/>
+    <file name="001-crop-u1878.jpg" crc="461461000" ref="phone>ambiance"/>
+    <file name="002-crop-u1874.jpg" crc="440728614" ref="phone>ambiance"/>
+    <file name="003-crop-u1876.jpg" crc="189832968" ref="phone>ambiance"/>
+    <file name="0016.jpg" crc="4084205212" ref="phone>sanitarios-lamosa:sanitarios-lamosa"/>
+    <file name="0026.jpg" crc="3912936983" ref="phone>sanitarios-lamosa:sanitarios-lamosa"/>
+    <file name="0036.jpg" crc="38692735" ref="phone>sanitarios-lamosa:sanitarios-lamosa"/>
+    <file name="001-crop-u1902.jpg" crc="105539630" ref="phone>sanitarios-lamosa"/>
+    <file name="002-crop-u1904.jpg" crc="1349897" ref="phone>sanitarios-lamosa"/>
+    <file name="003-crop-u1900.jpg" crc="534122246" ref="phone>sanitarios-lamosa"/>
+    <file name="simbolo.png" crc="148362053" ref="index:2012:2011:2010:2008:sanitario:joyou:lowes:inovatile:sanitarios-lamosa:ambiance"/>
+    <file name="001-crop-u681.jpg" crc="522272069" ref="sanitario"/>
+    <file name="002-crop-u1189.jpg" crc="4246099141" ref="sanitario"/>
+    <file name="003-crop-u1198.jpg" crc="52448577" ref="sanitario"/>
+    <file name="004-crop-u1207.jpg" crc="4022448973" ref="sanitario"/>
+    <file name="005-crop-u1216.jpg" crc="379178907" ref="sanitario"/>
+    <file name="006-crop-u1225.jpg" crc="369223811" ref="sanitario"/>
+    <file name="001-crop-u816.jpg" crc="4034014223" ref="joyou"/>
+    <file name="002-crop-u1251.jpg" crc="285606296" ref="joyou"/>
+    <file name="003-crop-u1260.jpg" crc="4203193010" ref="joyou"/>
+    <file name="001-crop-u636.jpg" crc="421772860" ref="lowes"/>
+    <file name="002-crop-u1340.jpg" crc="4203950156" ref="lowes"/>
+    <file name="003-crop-u1349.jpg" crc="508130094" ref="lowes"/>
+    <file name="004-crop-u1358.jpg" crc="4048366833" ref="lowes"/>
+    <file name="001-crop-u771.jpg" crc="4287297998" ref="inovatile"/>
+    <file name="002-crop-u1394.jpg" crc="51488252" ref="inovatile"/>
+    <file name="003-crop-u1403.jpg" crc="3973094649" ref="inovatile"/>
+    <file name="004-crop-u1412.jpg" crc="3854725602" ref="inovatile"/>
+    <file name="005-crop-u1421.jpg" crc="7058373" ref="inovatile"/>
+    <file name="001-crop-u951.jpg" crc="4129730902" ref="sanitarios-lamosa"/>
+    <file name="002-crop-u1482.jpg" crc="4073831659" ref="sanitarios-lamosa"/>
+    <file name="003-crop-u1491.jpg" crc="3827085662" ref="sanitarios-lamosa"/>
+    <file name="001-crop-u906.jpg" crc="4273270946" ref="ambiance"/>
+    <file name="002-crop-u1447.jpg" crc="3830789974" ref="ambiance"/>
+    <file name="003-crop-u1456.jpg" crc="3893783247" ref="ambiance"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="3806836348" ref="phone>2011:phone>2012:phone>joyou:phone>sanitarios-lamosa:phone>inovatile:phone>sanitario:phone>ambiance:phone>lowes:phone>2008:phone>2010"/>
+      <file name="master_a-p_g_-maestra-copy.css" crc="109317005" ref="phone>index"/>
+      <file name="2011.css" crc="4153443346" ref="phone>2011"/>
+      <file name="2012.css" crc="4153443346" ref="phone>2012"/>
+      <file name="joyou.css" crc="3990268004" ref="phone>joyou"/>
+      <file name="sanitarios-lamosa.css" crc="3763489695" ref="phone>sanitarios-lamosa"/>
+      <file name="inovatile.css" crc="224369073" ref="phone>inovatile"/>
+      <file name="sanitario.css" crc="251825501" ref="phone>sanitario"/>
+      <file name="ambiance.css" crc="3808625512" ref="phone>ambiance"/>
+      <file name="lowes.css" crc="64878198" ref="phone>lowes"/>
+      <file name="2008.css" crc="4153443346" ref="phone>2008"/>
+      <file name="2010.css" crc="4153443346" ref="phone>2010"/>
+      <file name="index.css" crc="37303189" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4127426660" mt="1426803926066" redirect="true"/>
+    <file name="2012.html" crc="222147998" mt="1426804215570" redirect="true"/>
+    <file name="sanitario.html" crc="4164984567" mt="1426804215907" redirect="true"/>
+    <file name="joyou.html" crc="235623100" mt="1426804216063" redirect="true"/>
+    <file name="2011.html" crc="3930387022" mt="1426804215572" redirect="true"/>
+    <file name="lowes.html" crc="4066191519" mt="1426804216280" redirect="true"/>
+    <file name="2010.html" crc="4265816769" mt="1426804215573" redirect="true"/>
+    <file name="inovatile.html" crc="97362668" mt="1426804216560" redirect="true"/>
+    <file name="ambiance.html" crc="3811032447" mt="1426804216729" redirect="true"/>
+    <file name="2008.html" crc="534491277" mt="1426804215575" redirect="true"/>
+    <file name="sanitarios-lamosa.html" crc="3957650833" mt="1426804216888" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="164061594" mt="1426803883292" redirect="true"/>
+  <file name="2012.html" crc="4209219856" mt="1426803883292" redirect="true"/>
+  <file name="2011.html" crc="13853425" mt="1426803883293" redirect="true"/>
+  <file name="2010.html" crc="3759393169" mt="1426803883294" redirect="true"/>
+  <file name="2008.html" crc="336797861" mt="1426803883294" redirect="true"/>
+  <file name="sanitario.html" crc="202213146" mt="1426804215905" redirect="true"/>
+  <file name="joyou.html" crc="4031799255" mt="1426804216060" redirect="true"/>
+  <file name="lowes.html" crc="4168414155" mt="1426804216277" redirect="true"/>
+  <file name="inovatile.html" crc="4217425725" mt="1426804216552" redirect="true"/>
+  <file name="sanitarios-lamosa.html" crc="275179892" mt="1426804216886" redirect="true"/>
+  <file name="ambiance.html" crc="3877627600" mt="1426804216725" redirect="true"/>
+</manifest>
